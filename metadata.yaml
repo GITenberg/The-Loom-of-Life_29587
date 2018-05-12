@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34011'
     url: http://www.gutenberg.org/2009/agents/34011
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29587#The-Loom-of-Life
 gutenberg_issued: '2009-08-03'
 gutenberg_type: Text
 identifiers:
